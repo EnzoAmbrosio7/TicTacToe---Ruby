@@ -17,4 +17,8 @@
    - A method to show a polishied table
    - A method to Let the players make moves on the table
    - And a function to verify is there is a winner
-3. Now you are ready to build the main game. You can do it by yourself, as you want: Use whiles, ifs and input methods!  
+3. Now you are ready to build the main game. You can do it by yourself, as you want: Use whiles, ifs and input methods!
+
+# Version
+Versioned on github
+Actually 3.0
